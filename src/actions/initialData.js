@@ -68,6 +68,20 @@ export const initialData = {
               title: "Title of card 7",
               cover: null,
             },
+            // {
+            //   id: "card-8",
+            //   boardId: "board-1",
+            //   columnId: "column-1",
+            //   title: "Title of card 8",
+            //   cover: null,
+            // },
+            // {
+            //   id: "card-9",
+            //   boardId: "board-1",
+            //   columnId: "column-1",
+            //   title: "Title of card 9",
+            //   cover: null,
+            // },
           ],
         },
         {
